@@ -1,7 +1,12 @@
 #!/bin/bash
 
 # Replace with your instance ID
-INSTANCE_ID="i-0123456789abcdef0"
+# ============================
+# Author Mahesh Dhnekula
+# Date 12272025
+#
+# ===============================
+INSTANCE_ID="i-0d487a0176d60332b"
 
 # Stop the instance
 aws ec2 stop-instances --instance-ids $INSTANCE_ID
