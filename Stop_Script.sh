@@ -1,4 +1,5 @@
 #!/bin/bash
+#Maesh own script
 
 # Replace with your instance ID
 INSTANCE_ID="i-0123456789abcdef0"
