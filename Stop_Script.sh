@@ -2,7 +2,7 @@
 #Maesh own script
 
 # Replace with your instance ID
-INSTANCE_ID="i-0123456789abcdef0"
+INSTANCE_ID="i-05590474357cc25fa"
 
 # Stop the instance
 aws ec2 stop-instances --instance-ids $INSTANCE_ID
